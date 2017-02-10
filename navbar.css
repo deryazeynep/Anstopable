@@ -11,10 +11,12 @@
 .nav ul {
 	margin: 0;
 	padding: 0;
+	position: relative;
 }
 
 .nav ul li {
 	list-style: none;
+	display: inline-block;
 }
 
 .nav ul li a {
